@@ -1,0 +1,4 @@
+fasthtml
+requests
+beautifulsoup4
+Pillow
